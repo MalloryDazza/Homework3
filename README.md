@@ -1,2 +1,5 @@
 # Homework3
-Homework 3 of computational science PCS Master 
+
+This repository is made for the Homework n°3 of computational science in the PCS Master.
+
+Have fun. 
